@@ -1,2 +1,2 @@
 # richoux.github.io
-Website pro
+Professional homepage
